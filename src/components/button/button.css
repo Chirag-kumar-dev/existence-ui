@@ -1,0 +1,98 @@
+button{
+    padding:10px;
+    width:100px;
+    height:50px;
+    gap:4px;
+    border-radius: 4px;
+    font-weight: bold;
+    color:white;
+    border:2px;
+    opacity: 0.7;
+    cursor: pointer;
+  }
+  .btn{
+    background-color: black;
+  
+  }
+  button:hover{
+    opacity: 1;
+  }
+  
+  .btn-primary{
+    background-color: blueviolet;
+  }
+  .btn-secondary{
+    background-color:grey;
+  }
+  .btn-error{
+    background-color:red;
+  }
+  .btn-success{
+    background-color:greenyellow;
+  }
+  
+  
+  
+  .outline{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .default{
+    border-color: #e7e7e7;
+    color: black;
+  }
+  .default:hover{
+    background: #e7e7e7;
+  }
+  .primary{
+    border-color: orange;
+    color: orange;
+  }
+  .primary:hover{
+    background-color: orange;
+    color: white;
+  }
+  .error{
+    border-color: red;
+    color: red;
+  }
+  .error:hover{
+    background-color: red;
+    color: white;
+  }
+  .success{
+    border-color:greenyellow;
+    color: greenyellow;
+  }
+  .success:hover{
+    background-color: greenyellow;
+    color: white;
+  }
+   /* icon  */
+  
+   .icon-button{
+     padding: 12px 16px;
+     color:black;
+     border:none;
+     font-size: 16px;
+     align-items: center;
+     opacity:1;
+     background-color: rgb(12, 181, 211)
+   }
+   .icon-button{
+     background-color: DodgerBlue;
+    border: none;
+    color: Black;
+    padding: 12px 16px;
+    font-size: 20px;
+    cursor: pointer;
+    /* text-align: center; */
+    align-content: center;
+   }
+  
+  
+   
+  

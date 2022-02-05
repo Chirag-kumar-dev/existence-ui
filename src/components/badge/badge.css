@@ -1,0 +1,180 @@
+span{
+    background-color: greenyellow;
+    padding:0.2rem 0.4rem;
+    font-weight: 700;
+    /* width:10px;
+    height:10px; */
+    border-radius: 50%;
+    position: absolute;
+    left: 1.7rem;
+    bottom: 0.9rem;
+  }
+  
+  .badge{
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    width:40px;
+    margin:1px;
+    display:inline-block;
+    text-align: center;
+  
+  }
+  .email{
+    background-color: red;
+    color:white;
+    left:1.8rem;
+   bottom:1.4rem;
+  }
+  .cart{
+  left:1.5rem;
+   bottom:1.4rem;
+  }
+  .bell{
+  left:1.3rem;
+   bottom:1.4rem;
+  }
+  
+  
+  /* css on avatar */
+  .online1{
+    left:2.8rem;
+    bottom:2.5rem;
+    top:0rem;
+    /* right:1.1rem; */
+    position: absolute;
+    border-radius: 50%;
+    background-color:greenyellow;
+    border: 0.2rem solid white;
+    padding:0.2rem 0.4rem;
+  }
+  .online2{
+    left:3rem;
+    bottom:2.9rem;
+    top:0;
+    padding:0.2rem 0.4rem;
+    /* right:1.1rem; */
+    position: absolute;
+    border-radius: 50%;
+    background-color:red;
+    border: 0.2rem solid white;
+  }
+  .online3{
+    left:3.5rem;
+    bottom:2.9rem;
+    top:0;
+    /* right:1.1rem; */
+    position: absolute;
+    border-radius: 50%;
+    background-color:orange;
+    border: 0.2rem solid white;
+  }
+  .online4{
+    left:3.5rem;
+    right:1.5rem;
+    bottom:3.3rem;
+    top:0rem;
+    /* right:1.1rem; */
+    position: absolute;
+    border-radius: 50%;
+    background-color:grey;
+    border: 0.2rem solid white;
+  }
+  .online5{
+    left:3.9rem;
+    right:1rem;
+    bottom:3.8rem;
+    top:0rem;
+    /* right:1.1rem; */
+    position: absolute;
+    border-radius: 50%;
+    background-color:greenyellow;
+    border: 0.2rem solid white;
+  }
+  .avatar{
+    display:flex;
+    gap:2px;
+  }
+  .xsm {
+    display:inline-block;
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+  .sm {
+    display:inline-block;
+    vertical-align: middle;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+  .md {
+    display:inline-block;
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+  .lg {
+    display:inline-block;
+    vertical-align: middle;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+  
+  .xlg {
+    display:inline-block;
+    vertical-align: middle;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+  .xsm img {
+    /* float: left;  */
+     /* margin: 0 10px 0 -25px; */
+    height: px;
+    width: 60px;
+    border-radius: 50%;
+  }
+  .sm img{
+    /* float: left;  */
+     /* margin: 0 10px 0 -25px; */
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+  }
+  .md img {
+    /* float: left;  */
+     /* margin: 0 10px 0 -25px; */
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+  }
+  .lg img {
+    /* float: left;  */
+     /* margin: 0 10px 0 -25px; */
+    height: 75px;
+    width: 75x;
+    border-radius: 50%;
+  }
+  .xlg img {
+    /* float: left;  */
+     /* margin: 0 10px 0 -25px; */
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+  }
+  
+  /* .sm{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  } */
