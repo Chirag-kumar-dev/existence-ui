@@ -51,3 +51,6 @@ a{
 .padding-50{
     padding-bottom: 50px;
 }
+.position-fixed{
+    position: fixed;
+}
