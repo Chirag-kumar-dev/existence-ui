@@ -1,0 +1,9 @@
+.snackbar{
+    display: flex;
+    background-color: rgb(48, 44, 44);
+    color: white;
+    justify-content: space-between;
+    width:auto;
+    padding:1rem;
+    border-radius: 10px;
+}
