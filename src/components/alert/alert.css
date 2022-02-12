@@ -1,0 +1,46 @@
+.alert{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 0.5rem;
+    letter-spacing: 1px;
+    border-radius: 0.3rem;
+  }
+  img{
+    height: 16px;
+    width: 16px;
+  }
+  .primary {
+    color:white;
+    background-color: blueviolet;
+    border: 1px solid var(--rb-very-dark-brown);
+  }
+  
+  .error {
+    color:white;
+    background-color: red;
+    border: 1px solid var(--rb-light-black);
+  }
+  
+  .success {
+    color: white;
+    background-color: greenyellow;
+    border: 1px solid var(--rb-very-dark-green);
+  }
+  
+  .warning {
+    color: white;
+    background-color: yellow;
+    border: 1px solid var(--rb-very-dark-brown);
+  }
+  
+  .button-close {
+    display: flex;
+    border:0;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    padding: 0.2rem;
+    cursor: pointer;
+    background: transparent;
+  }
