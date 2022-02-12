@@ -1,4 +1,7 @@
 .container-div{
+
+    height:50%;
+    width: 40%;
     margin-top: 1rem;
     padding: 2rem 0;
     justify-content: space-evenly;
