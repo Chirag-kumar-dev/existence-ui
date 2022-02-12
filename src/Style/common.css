@@ -1,6 +1,6 @@
 .code{
-    width: 550px;
-     height: 200px;
+    width: 50rem;
+     height: 10rem;
       border:0; 
       transform: scale(1); 
       overflow:hidden;
@@ -50,4 +50,8 @@ a{
 }
 .padding-50{
     padding-bottom: 50px;
+
+}
+.position-fixed{
+    position: fixed;
 }
